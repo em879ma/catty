@@ -14,7 +14,7 @@ player1left.src = 'static/closeleft0.png';
 var player1right = new Image();
 player1right.src = 'static/closeright0.png';
 var player1_x = 0;
-var player1_y = 0;                                         // 设置了初位置！！！
+var player1_y = 0;
 var player1_HP = 10;
 var player1_FC = 4;//玩家1的战斗力
 var player1_speed;//玩家1的速度
