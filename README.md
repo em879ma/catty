@@ -1,3 +1,3 @@
 # cat_fighting
 
-## proj
+###The instrustion of the game is in the html file.
